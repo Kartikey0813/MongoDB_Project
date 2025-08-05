@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/Kartikey0813/MongoDB_Project#readme",
   "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
     "express": "^5.1.0",
-    "mongoose": "^8.17.0"
+    "mongoose": "^8.17.0",
+    "multer": "^2.0.2"
   }
 }
