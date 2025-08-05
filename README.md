@@ -9,4 +9,5 @@ From package.json - change index.js to app.js
 
 then create an file app.js 
 
-Install express 
+Install express - npm i express mongoose
+
